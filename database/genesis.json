@@ -1,0 +1,7 @@
+{
+    "genesis-time": "2020-12-28T00:00:00.000000000Z",
+    "chain-id": "the-blockchain-bar-ledger",
+    "balances":{
+        "nitsua": 1000000
+    }
+}
